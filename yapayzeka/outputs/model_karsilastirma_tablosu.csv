@@ -1,6 +1,0 @@
-Metrik,Logistic Regression,XGBoost
-Accuracy,0.6706,0.7476
-Precision,0.3114,0.3462
-Recall,0.7081,0.4773
-F1-Score,0.4325,0.4013
-ROC-AUC,0.7441,0.7123
